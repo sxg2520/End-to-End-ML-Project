@@ -101,7 +101,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-cd974d10b4b6.js"></script>
 
 
-  <title>End-to-End-ML-Project/winequality-red.zip at main · sxg2520/End-to-End-ML-Project · GitHub</title>
+  <title>End-to-end-ML-Project/artifacts/data_ingestion/data.zip at main · entbappy/End-to-end-ML-Project · GitHub</title>
 
 
 
@@ -111,10 +111,10 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="9132:1AFD51:35C470:3CA639:65BAE579" data-pjax-transient="true"/><meta name="html-safe-nonce" content="0c6a734c0acdc29b9f947101736ba8eaae93b6e9335ad29406f34e2d399aa07a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI5MTMyOjFBRkQ1MTozNUM0NzA6M0NBNjM5OjY1QkFFNTc5IiwidmlzaXRvcl9pZCI6IjQ0MjM2NzI3NDAxMjUwMDkyNzMiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="a9f7fe6c6514f1342c4299d822c552b77cffe60c8f105ee4c0009252f1650113" data-pjax-transient="true"/>
+  <meta name="request-id" content="C8CE:1DBD6F:371E05:3E35F3:65BAE9AB" data-pjax-transient="true"/><meta name="html-safe-nonce" content="951717e66e9f58f1907e1c0e888db3bc4bdd0ae3a04c26b5db8cadc097943e81" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDOENFOjFEQkQ2RjozNzFFMDU6M0UzNUYzOjY1QkFFOUFCIiwidmlzaXRvcl9pZCI6IjY4ODM4NTkzMjA0MjU2MDU1NDciLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="a6efce4d107d5825c7f6e855557d4ee0eaf2556371bf5ac094fe6c8889ce3c99" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:749480974" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:736990771" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
@@ -146,13 +146,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Contribute to sxg2520/End-to-End-ML-Project development by creating an account on GitHub.">
+      <meta name="description" content="Contribute to entbappy/End-to-end-ML-Project development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/5e39871a7a5a3ac2e46fd3f17e73edc7714aff4a87f0ef60409630ef690f01e0/sxg2520/End-to-End-ML-Project" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="End-to-End-ML-Project/winequality-red.zip at main · sxg2520/End-to-End-ML-Project" /><meta name="twitter:description" content="Contribute to sxg2520/End-to-End-ML-Project development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/5e39871a7a5a3ac2e46fd3f17e73edc7714aff4a87f0ef60409630ef690f01e0/sxg2520/End-to-End-ML-Project" /><meta property="og:image:alt" content="Contribute to sxg2520/End-to-End-ML-Project development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="End-to-End-ML-Project/winequality-red.zip at main · sxg2520/End-to-End-ML-Project" /><meta property="og:url" content="https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip" /><meta property="og:description" content="Contribute to sxg2520/End-to-End-ML-Project development by creating an account on GitHub." />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/43facc454b26dd2072dce1bfa7ce0453847ce89fb97ad76bb4c45ce8fe7cd82b/entbappy/End-to-end-ML-Project" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="End-to-end-ML-Project/artifacts/data_ingestion/data.zip at main · entbappy/End-to-end-ML-Project" /><meta name="twitter:description" content="Contribute to entbappy/End-to-end-ML-Project development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/43facc454b26dd2072dce1bfa7ce0453847ce89fb97ad76bb4c45ce8fe7cd82b/entbappy/End-to-end-ML-Project" /><meta property="og:image:alt" content="Contribute to entbappy/End-to-end-ML-Project development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="End-to-end-ML-Project/artifacts/data_ingestion/data.zip at main · entbappy/End-to-end-ML-Project" /><meta property="og:url" content="https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip" /><meta property="og:description" content="Contribute to entbappy/End-to-end-ML-Project development by creating an account on GitHub." />
       
 
 
@@ -174,9 +174,9 @@
       <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
     <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/sxg2520/End-to-End-ML-Project git https://github.com/sxg2520/End-to-End-ML-Project.git">
+  <meta name="go-import" content="github.com/entbappy/End-to-end-ML-Project git https://github.com/entbappy/End-to-end-ML-Project.git">
 
-  <meta name="octolytics-dimension-user_id" content="113042844" /><meta name="octolytics-dimension-user_login" content="sxg2520" /><meta name="octolytics-dimension-repository_id" content="749480974" /><meta name="octolytics-dimension-repository_nwo" content="sxg2520/End-to-End-ML-Project" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="749480974" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sxg2520/End-to-End-ML-Project" />
+  <meta name="octolytics-dimension-user_id" content="68845761" /><meta name="octolytics-dimension-user_login" content="entbappy" /><meta name="octolytics-dimension-repository_id" content="736990771" /><meta name="octolytics-dimension-repository_nwo" content="entbappy/End-to-end-ML-Project" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="736990771" /><meta name="octolytics-dimension-repository_network_root_nwo" content="entbappy/End-to-end-ML-Project" />
 
 
 
@@ -254,9 +254,9 @@
       </a>
 
       <div class="flex-1">
-        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsxg2520%2FEnd-to-End-ML-Project%2Fblob%2Fmain%2Fwinequality-red.zip"
+        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fentbappy%2FEnd-to-end-ML-Project%2Fblob%2Fmain%2Fartifacts%2Fdata_ingestion%2Fdata.zip"
           class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="277c2b9ca8a3a0beb8db9df399ffe05baa52719d7385b065c728694647c994b1"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a6d32972bcb200f28cb0f0d4e2ce28380b137453b0af04af8cd369ac94c04ead"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -631,7 +631,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:sxg2520/End-to-End-ML-Project" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="gs_b5wLrqhRYoSBNDaF65VXU1UdxSkkJI4IkvIoHfOinL1SJEKEzxe9wsiRc3QcisKBRQnDPb-2jy0R5HFboZg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="sxg2520/End-to-End-ML-Project" data-current-org="" data-current-owner="sxg2520" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=xt0h7GXk0Y4Fyzcp7GTILXT9oGud7bl6E3S7%2BtPSjdyGRuhnzRo6Hd0NT0vBPhkHK8J2oIeXbYC5weaH9JEWNYHdrEE4UhH5J5QbHhN9%2Bzns%2Fq6HTHJELEgFBrPbLRz56H8HsCE1glnDkoIO4%2BmwQ%2BvLOwlsd77ojElKPydRqC3sp6uMkVR3IhwUQjMlz1GZoP3uJgnMxMai2GleKWqdrawzuuiwL1Nfh5aV1K4GIqYYV7ShdlFqfUomD6m5YJT3B5XjrvtFn7EU0znv2qooM%2Fh9Y2ca6VSQzhdRsIR1u1YzXFcMV%2F%2BX2%2F4QGXK%2FplCGHdg3JXQhNvqp2BqcJXhwf%2F%2Fr%2BDxaNu25lfpOf1DsvTDfqx4xkIbCw13FBrJ7wZU%2Fs8GHWyxy2NJ5LgdCO396XAxranIM1b1CeaShVoyrt3AhBNg7MDzqZ8UPAX7qY3HD4qLU8H%2FlSyMLb%2FjWc3crABsMUcBPmmBYPHFPRRMUzhM09fvGNPjvYiygw5DGYAxSSVWq5C0kblls6Df%2FwPbw8FIrK3r7u8e0lgRgNmpT15quCHY3Gs%2F8Ser9uSRSwfBlyAgDSbsfbxlgHVkwVFHw1YMQHxetBA%3D%3D--H%2BukEcOAfXiuG0DE--8dsvnGzANJ%2BSI6AFsAVMow%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:entbappy/End-to-end-ML-Project" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="9hOlbn5OqhPZ38g9LclF5y5RW56PP-_86_DOeTQvhfq8lNXrZQ2usaepqhZidOzkr7DcWnDbE7lDQrQoSuPOpQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="entbappy/End-to-end-ML-Project" data-current-org="" data-current-owner="entbappy" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=6p5c6QPO3PLD14LyGByn%2F%2BSBd%2Bfws9EIdPQ6X7VpsS4EOpXUNnr4MuiYdpQmXcZQrKlSCwerJoAnVhB0Iwi%2F8anEoczXD96T0d7q2QOfbrD2pwtDDtbRr%2FjQtGrK79dDz59TkH9j2r2MDCTbgUMjPTuVDSPHtfgfk%2BjC3cEeShY%2F6cQDS2iVfnJxrcmTaI3%2B8MI5sT0CAFHbSlZs3XjY6q5uQyJHceY23YTEaxqC7TORfGgh79dI62GfmJZ%2BuXKlOGcg%2F8rKwlzlSREa5PPkoduPkwaKsFh4a7ViKtDVRO67TQv%2F7SC1Dd4JahUtylbo7hvyjhQG3HoXCRVHa%2BywKvN%2BYcfc0tSOA0i%2BUlqei9C3XYoUlKMsqvypn9C5Pkb0zkYMffYqPDILUNCpXiMniGG156uscpua4XpINpmXzDTnPpxtfj4hSD1VO3rEqTW4aYvYNG0JrHEOfDh8qympBPZ67F3QjIbac1JdFTwysrl5hRBozrEXCio%2FcFp84PkFLFngCM7GjApjUmdCHI%2F1XWy6mGRjwoQCoxLQpW4qTdlMiBRcRw7asBMHJ2aHyodPkc46k8PVyByRa6hzOAiNYPL%2Fp4zg1ncm8MNgly8fNoSYWs7YruBulJ03--Uq1wofVGYJnXRwSj--LHFRLV2RIcCvoGHTv%2Fbldg%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -693,7 +693,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-bf24cbd6-a12b-4a9f-930d-62d9a5ea50aa" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-1f3217fb-0e6d-450c-9eba-ed8cecd22c54" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -804,7 +804,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-bf24cbd6-a12b-4a9f-930d-62d9a5ea50aa" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-1f3217fb-0e6d-450c-9eba-ed8cecd22c54" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -845,7 +845,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="0THdgNt/LvffCK5iGT9UxodVQblUqNK8n6gRMHCELVV7+rtGKhTpbY+LV2MDQbwQpvOgv5vmkd280y7VoAf37A==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="LbPZr8fzex2aUG8DFopJs3feUlgue6q96wMsVmXJC6h9bbwq2aMixtitrAxTMedxHEi7/kAmrKLG+Kw4I5Wzag==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -882,7 +882,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="LigTN3IJgDTvg0KCi6Jr3oQZ0u35t8ocj4bcnbH4gULZBHuMtrM9GRezgB/Y3No29G0GJGLpAe+kcMOJvSbDCg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="+ZNWgq973HPKvfMNCROq4b3qLFcMadXu0IOzroXKjBhz4d4BT+TQMTLJLVz3oZbHOwjU1yQJF4VXASZgfDS+lA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -900,7 +900,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="TVkFvLGvk3CIXwKPRJKI5XcxaPMhKoh2cTh0kX9Gy6G+leOoGcSnb0JXpeorQNzEtzXzxjAlXx3U2+8ibJcstQ==" />
+              <input type="hidden" data-csrf="true" value="GJL1DroNu9fxvb/pJNtbBt6PJ0b7EWmdloJuBrTu8U6S8IByCezPkhbyA4sp4pUdejme6ExHIKfuBp5IfvJurg==" />
             </auto-check>
           </div>
 
@@ -937,21 +937,21 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="3ifQYorEsC6HiFVVaU5Mn/4wBF/eMATubZaBkl5a0ucP/ceKUCfKYS5XGfzCHzd3xavEaTTctqLnZatPG5mw2w==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="9Fh9sd6gNCrsGmF/HZg0MQtnr9Gf+oQjKfh506bzXjrD5IOz7LQE3HL843J+FzBNrQk2v3UFadYJqSPRo18u9g==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fsxg2520%2FEnd-to-End-ML-Project%2Fblob%2Fmain%2Fwinequality-red.zip"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fentbappy%2FEnd-to-end-ML-Project%2Fblob%2Fmain%2Fartifacts%2Fdata_ingestion%2Fdata.zip"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="277c2b9ca8a3a0beb8db9df399ffe05baa52719d7385b065c728694647c994b1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a6d32972bcb200f28cb0f0d4e2ce28380b137453b0af04af8cd369ac94c04ead"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
           </div>
 
-            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=sxg2520%2FEnd-to-End-ML-Project"
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=entbappy%2FEnd-to-end-ML-Project"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="277c2b9ca8a3a0beb8db9df399ffe05baa52719d7385b065c728694647c994b1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a6d32972bcb200f28cb0f0d4e2ce28380b137453b0af04af8cd369ac94c04ead"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -971,10 +971,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-ce12955c-2c03-41d5-bdd0-3cc0e15d9815" aria-labelledby="tooltip-25a24559-b461-475a-b0e9-29aa0b538b87" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-f09d9758-4b62-4ec4-a0ab-f90590cfba63" aria-labelledby="tooltip-5e67211c-5ecf-494f-8527-f4b568662bec" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-25a24559-b461-475a-b0e9-29aa0b538b87" for="icon-button-ce12955c-2c03-41d5-bdd0-3cc0e15d9815" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-5e67211c-5ecf-494f-8527-f4b568662bec" for="icon-button-f09d9758-4b62-4ec4-a0ab-f90590cfba63" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1054,12 +1054,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/sxg2520/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sxg2520">
-        sxg2520
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/entbappy/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/entbappy">
+        entbappy
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/sxg2520/End-to-End-ML-Project">End-to-End-ML-Project</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/entbappy/End-to-end-ML-Project">End-to-end-ML-Project</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1074,27 +1074,27 @@
       
 
   <li>
-            <a href="/login?return_to=%2Fsxg2520%2FEnd-to-End-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e2cb719de6c85da59a329c53947c81877534c0d08c8aaf242994089a6e7fc16e" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fentbappy%2FEnd-to-end-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1bc99c863a6a8b106dd8ecade7b8bb7a47a157546356ab43ac08aee0a52de9ea" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fsxg2520%2FEnd-to-End-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:749480974,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ca07b9b90dab84ba34a7d98e95613e51b42470e9b2d814d4625eb895322989bd" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fentbappy%2FEnd-to-end-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:736990771,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b3421ec2164347045234c3c922b2f524fb927b43b426e785cec2951c7da5cf6a" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="13" data-view-component="true" class="Counter">13</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fsxg2520%2FEnd-to-End-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:749480974,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5a039ba58111c201adbab84b99b6bfb12c9f038dc9282b897fe54832d9431dad" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fentbappy%2FEnd-to-end-ML-Project" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:736990771,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fd4c03b7749b207f348722552db93d345ffc6486e9122d33d8dd3469822a1cbf" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
+</span>          <span id="repo-stars-counter-star" aria-label="9 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="9" data-view-component="true" class="Counter js-social-count">9</span>
 </a>        <button aria-label="You must be signed in to add this repository to a list" type="button" disabled="disabled" data-view-component="true" class="btn-sm btn BtnGroup-item px-2">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg>
@@ -1118,7 +1118,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/sxg2520/End-to-End-ML-Project" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /sxg2520/End-to-End-ML-Project" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/entbappy/End-to-end-ML-Project" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /entbappy/End-to-end-ML-Project" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1130,7 +1130,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/sxg2520/End-to-End-ML-Project/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /sxg2520/End-to-End-ML-Project/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/entbappy/End-to-end-ML-Project/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /entbappy/End-to-end-ML-Project/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1142,7 +1142,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/sxg2520/End-to-End-ML-Project/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /sxg2520/End-to-End-ML-Project/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/entbappy/End-to-end-ML-Project/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /entbappy/End-to-end-ML-Project/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1154,7 +1154,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/sxg2520/End-to-End-ML-Project/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /sxg2520/End-to-End-ML-Project/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/entbappy/End-to-end-ML-Project/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /entbappy/End-to-end-ML-Project/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1166,7 +1166,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/sxg2520/End-to-End-ML-Project/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /sxg2520/End-to-End-ML-Project/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/entbappy/End-to-end-ML-Project/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /entbappy/End-to-end-ML-Project/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1178,18 +1178,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/sxg2520/End-to-End-ML-Project/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /sxg2520/End-to-End-ML-Project/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/entbappy/End-to-end-ML-Project/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /entbappy/End-to-end-ML-Project/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/sxg2520/End-to-End-ML-Project/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/entbappy/End-to-end-ML-Project/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/sxg2520/End-to-End-ML-Project/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /sxg2520/End-to-End-ML-Project/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/entbappy/End-to-end-ML-Project/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /entbappy/End-to-end-ML-Project/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1203,20 +1203,20 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-02981f53-776c-4937-be43-b569f38309cd-button" popovertarget="action-menu-02981f53-776c-4937-be43-b569f38309cd-overlay" aria-controls="action-menu-02981f53-776c-4937-be43-b569f38309cd-list" aria-haspopup="true" aria-labelledby="tooltip-fc0c4154-027e-4f26-ad1e-b2da585e8818" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-button" popovertarget="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-overlay" aria-controls="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-list" aria-haspopup="true" aria-labelledby="tooltip-3c15db22-2cd6-4c2b-8ce3-7370fa1904cf" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-fc0c4154-027e-4f26-ad1e-b2da585e8818" for="action-menu-02981f53-776c-4937-be43-b569f38309cd-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-3c15db22-2cd6-4c2b-8ce3-7370fa1904cf" for="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-02981f53-776c-4937-be43-b569f38309cd-overlay" anchor="action-menu-02981f53-776c-4937-be43-b569f38309cd-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-overlay" anchor="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <div data-view-component="true">
-  <ul aria-labelledby="action-menu-02981f53-776c-4937-be43-b569f38309cd-button" id="action-menu-02981f53-776c-4937-be43-b569f38309cd-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+  <ul aria-labelledby="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-button" id="action-menu-5e15c71c-f758-41ed-b013-a5fa9713bba7-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-b99add7f-99c9-49af-b8ac-8f6d8f7a3eb6" href="/sxg2520/End-to-End-ML-Project" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-20091a05-cb97-4e47-aaa8-2c64b869853f" href="/entbappy/End-to-end-ML-Project" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1231,7 +1231,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-8027e025-6d20-4371-82ee-168e0a432c36" href="/sxg2520/End-to-End-ML-Project/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-4aa65b3f-9857-4d3a-a987-abed6d03b345" href="/entbappy/End-to-end-ML-Project/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1246,7 +1246,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-2e1db1eb-c363-46ed-bc51-e20bd7f8031a" href="/sxg2520/End-to-End-ML-Project/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-20ccf534-3ae6-4722-9fd8-b266604adc9a" href="/entbappy/End-to-end-ML-Project/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1261,7 +1261,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-f36339f5-972c-4323-9d61-559e92c43ef3" href="/sxg2520/End-to-End-ML-Project/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9cb8bff4-7c91-4279-b23f-0ae4e753407f" href="/entbappy/End-to-end-ML-Project/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1276,7 +1276,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-e1149cd6-a302-4a79-8772-f13a4a8e06b3" href="/sxg2520/End-to-End-ML-Project/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-d040304a-1591-4c4e-beaf-f670c1b3684b" href="/entbappy/End-to-end-ML-Project/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1291,7 +1291,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-02d85b6a-dffc-40d5-b797-fb2eb7ea40c6" href="/sxg2520/End-to-End-ML-Project/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-31c974be-9dcc-4509-90f6-0ce3bbaad173" href="/entbappy/End-to-end-ML-Project/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1306,7 +1306,7 @@
 </li>
       <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-22234107-12e7-40bf-b5ae-d2b0dbf32ae7" href="/sxg2520/End-to-End-ML-Project/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-1eba1144-4466-426a-a95c-fefeb0d19821" href="/entbappy/End-to-end-ML-Project/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1349,14 +1349,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip"
+  initial-path="/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip"
   style="min-height: calc(100vh - 64px)" 
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"config","path":"config","contentType":"directory"},{"name":"research","path":"research","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":"templates","path":"templates","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"main.py","path":"main.py","contentType":"file"},{"name":"params.yaml","path":"params.yaml","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"},{"name":"schema.yaml","path":"schema.yaml","contentType":"file"},{"name":"setup.py","path":"setup.py","contentType":"file"},{"name":"template.py","path":"template.py","contentType":"file"},{"name":"winequality-red.zip","path":"winequality-red.zip","contentType":"file"}],"totalCount":15}},"fileTreeProcessingTime":2.735618,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":749480974,"defaultBranch":"main","name":"End-to-End-ML-Project","ownerLogin":"sxg2520","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2024-01-28T17:52:26.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/113042844?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1706670675.0","canEdit":false,"refType":"branch","currentOid":"207ea669d5e2d35aff7b78f2385372ace1abf24c"},"path":"winequality-red.zip","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/sxg2520/End-to-End-ML-Project/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/sxg2520/End-to-End-ML-Project/security/dependabot","repoSecurityAndAnalysisPath":"/sxg2520/End-to-End-ML-Project/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"winequality-red.zip","displayUrl":"https://github.com/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip?raw=true","headerInfo":{"blobSize":"25.5 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"5e94aa0","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fsxg2520%2FEnd-to-End-ML-Project%2Fblob%2Fmain%2Fwinequality-red.zip","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/sxg2520/End-to-End-ML-Project/discussions/new","newIssuePath":"/sxg2520/End-to-End-ML-Project/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/sxg2520/End-to-End-ML-Project/blob/main/winequality-red.zip","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/sxg2520/End-to-End-ML-Project/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/sxg2520/End-to-End-ML-Project/raw/main/winequality-red.zip","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"sxg2520","repoName":"End-to-End-ML-Project","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/sxg2520/End-to-End-ML-Project/branches":{"post":"k6EeJ0GRyTbwwJ5BSbszJ1b6hHJ37sopfe7xwF_Y5yNUSfdD2cSejj4G628vb8uwUplphnPSU1bjuN_KflpSSA"},"/repos/preferences":{"post":"1Mqi9poGiv3TKZQSuCVQxHjXjacPUn7SM61Mo4Xsxb9uHk9FkkzmJJnFwj2lu_x7RxLUWCSLKN5yrVV7O3te0A"}}},"title":"End-to-End-ML-Project/winequality-red.zip at main · sxg2520/End-to-End-ML-Project","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c6704d501c10.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"artifacts/data_ingestion":{"items":[{"name":"data.zip","path":"artifacts/data_ingestion/data.zip","contentType":"file"},{"name":"winequality-red.csv","path":"artifacts/data_ingestion/winequality-red.csv","contentType":"file"}],"totalCount":2},"artifacts":{"items":[{"name":"data_ingestion","path":"artifacts/data_ingestion","contentType":"directory"},{"name":"data_transformation","path":"artifacts/data_transformation","contentType":"directory"},{"name":"data_validation","path":"artifacts/data_validation","contentType":"directory"},{"name":"model_evaluation","path":"artifacts/model_evaluation","contentType":"directory"},{"name":"model_trainer","path":"artifacts/model_trainer","contentType":"directory"}],"totalCount":5},"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"artifacts","path":"artifacts","contentType":"directory"},{"name":"config","path":"config","contentType":"directory"},{"name":"research","path":"research","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":"static","path":"static","contentType":"directory"},{"name":"templates","path":"templates","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"Dockerfile","path":"Dockerfile","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"app.py","path":"app.py","contentType":"file"},{"name":"main.py","path":"main.py","contentType":"file"},{"name":"params.yaml","path":"params.yaml","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"},{"name":"schema.yaml","path":"schema.yaml","contentType":"file"},{"name":"setup.py","path":"setup.py","contentType":"file"},{"name":"template.py","path":"template.py","contentType":"file"}],"totalCount":18}},"fileTreeProcessingTime":7.106463000000001,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":736990771,"defaultBranch":"main","name":"End-to-end-ML-Project","ownerLogin":"entbappy","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-12-29T13:24:19.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/68845761?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1703856259.0","canEdit":false,"refType":"branch","currentOid":"bf5996ab5a12be7904b90eec27b1fb03a43d90a2"},"path":"artifacts/data_ingestion/data.zip","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/entbappy/End-to-end-ML-Project/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/entbappy/End-to-end-ML-Project/security/dependabot","repoSecurityAndAnalysisPath":"/entbappy/End-to-end-ML-Project/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"data.zip","displayUrl":"https://github.com/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip?raw=true","headerInfo":{"blobSize":"22.8 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"99900de","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fentbappy%2FEnd-to-end-ML-Project%2Fblob%2Fmain%2Fartifacts%2Fdata_ingestion%2Fdata.zip","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"loggedIn":false,"newDiscussionPath":"/entbappy/End-to-end-ML-Project/discussions/new","newIssuePath":"/entbappy/End-to-end-ML-Project/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/entbappy/End-to-end-ML-Project/blob/main/artifacts/data_ingestion/data.zip","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/entbappy/End-to-end-ML-Project/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"rawBlobUrl":"https://github.com/entbappy/End-to-end-ML-Project/raw/main/artifacts/data_ingestion/data.zip","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"entbappy","repoName":"End-to-end-ML-Project","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/entbappy/End-to-end-ML-Project/branches":{"post":"Z_YW-Zs-5p9WLtKWbmLVEt8Q1VZ4LWxqO3xrTCvFVdy-gbpsVXWiBxv6gH4DsNMi4-poqt3er7A0ki9-Z7zVNg"},"/repos/preferences":{"post":"JS0uAmRl2hWBZ1F1IqJYLwG86f0Z3KUpeIAHjqpYH_BKL8IoK0bIfKDrXYWY-PCLtld-EKAIXsBpscI52nv5aA"}}},"title":"End-to-end-ML-Project/artifacts/data_ingestion/data.zip at main · entbappy/End-to-end-ML-Project","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-32bb159cc57c.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-c6704d501c10.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
