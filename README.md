@@ -37,6 +37,7 @@ AWS-CICD-Deployment-with-Github-Actions
 
 2. ECR: Elastic Container registry to save your docker image in aws
 
+992382431203.dkr.ecr.us-east-1.amazonaws.com/mlproject
 
 #Description: About the deployment
 
